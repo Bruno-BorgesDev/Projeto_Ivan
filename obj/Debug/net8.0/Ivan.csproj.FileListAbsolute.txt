@@ -1,0 +1,14 @@
+D:\1-Projetos\Ivan\bin\Debug\net8.0\Ivan.exe
+D:\1-Projetos\Ivan\bin\Debug\net8.0\Ivan.deps.json
+D:\1-Projetos\Ivan\bin\Debug\net8.0\Ivan.runtimeconfig.json
+D:\1-Projetos\Ivan\bin\Debug\net8.0\Ivan.dll
+D:\1-Projetos\Ivan\bin\Debug\net8.0\Ivan.pdb
+D:\1-Projetos\Ivan\obj\Debug\net8.0\Ivan.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-Projetos\Ivan\obj\Debug\net8.0\Ivan.AssemblyInfoInputs.cache
+D:\1-Projetos\Ivan\obj\Debug\net8.0\Ivan.AssemblyInfo.cs
+D:\1-Projetos\Ivan\obj\Debug\net8.0\Ivan.csproj.CoreCompileInputs.cache
+D:\1-Projetos\Ivan\obj\Debug\net8.0\Ivan.dll
+D:\1-Projetos\Ivan\obj\Debug\net8.0\refint\Ivan.dll
+D:\1-Projetos\Ivan\obj\Debug\net8.0\Ivan.pdb
+D:\1-Projetos\Ivan\obj\Debug\net8.0\Ivan.genruntimeconfig.cache
+D:\1-Projetos\Ivan\obj\Debug\net8.0\ref\Ivan.dll
